@@ -1,0 +1,6 @@
+// Infura
+export const INFURA_PROJECT_ID = '1c63483d2c0c41369507b8f479803e8b';
+
+// Moralis
+export const MORALIS_API_KEY = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJub25jZSI6Ijg0NTJiZDgzLWViZmMtNDI5MC05ZjMyLTlhZDA0M2ZlNWM0MSIsIm9yZ0lkIjoiNDk4NDk2IiwidXNlcklkIjoiNTEyOTY0IiwidHlwZUlkIjoiN2E2MWQwOTAtOWQwYy00NDExLThlM2ItNGM1N2NjYzdkZTY1IiwidHlwZSI6IlBST0pFQ1QiLCJpYXQiOjE3NzAyNjgwNzEsImV4cCI6NDkyNjAyODA3MX0.lt0clq1IMMHCyLPjgZR7rQNMKvwatdL3U3airqS_agQ'; // Placeholder
+export const MORALIS_BASE_URL = 'https://deep-index.moralis.io/api/v2.2';
